@@ -30,7 +30,7 @@ const url = "/data";
 
 // map.dragRotate.disable();
 // map.touchZoomRotate.disableRotation();
-// map.scrollZoom.disable();
+map.scrollZoom.disable();
 
 let jsonString = JSON.stringify(url);
 let jsonData = JSON.parse(jsonString);
