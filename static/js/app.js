@@ -57,8 +57,10 @@ function populateData(res) {
     var worldRecovered = document.getElementById("world-recovered-count");
     var worldDeaths = document.getElementById("world-deaths-count");
 
+    const newGlobalTotalRecovered = getRecovered(res.Global.TotalConfirmed - res.Global.TotalDeaths, 3);
+
     var worldCasesCount = `<p>${res.Global.TotalConfirmed.toLocaleString()}</p>`;
-    var worldRecoveredCount = `<p>${res.Global.TotalRecovered.toLocaleString()}</p>`;
+    var worldRecoveredCount = `<p>${newGlobalTotalRecovered.toLocaleString()}</p>`;
     var worldDeathsCount = `<p>${res.Global.TotalDeaths.toLocaleString()}</p>`;
 
     worldCases.innerHTML = worldCasesCount;
@@ -71,12 +73,13 @@ function populateData(res) {
 
     res.Countries.forEach(elm => {
 
+        const newTotalRecovered = getRecovered(elm.TotalConfirmed - elm.TotalDeaths, 0.1);
         var details =
             `<tr>
                     <td>${i}</td>
                     <td>${elm.Slug.toLocaleString()}</td>
                     <td id="table-cases">${elm.TotalConfirmed.toLocaleString()}</td>
-                    <td id="table-recovered">${elm.TotalRecovered.toLocaleString()}</td>
+                    <td id="table-recovered">${newTotalRecovered.toLocaleString()}</td>
                     <td id="table-deaths">${elm.TotalDeaths.toLocaleString()}</td>
                 </tr>`;
         i++;
@@ -85,7 +88,7 @@ function populateData(res) {
 
         let country = elm.Slug;
         let cases = elm.TotalConfirmed;
-        let recovered = elm.TotalRecovered.toLocaleString();
+        let recovered = newTotalRecovered.toLocaleString();
         let death = elm.TotalDeaths.toLocaleString();
         let colors;
 
@@ -156,4 +159,10 @@ function populateData(res) {
                 }
             });
     });
+}
+
+function getRecovered(a, p) {
+    let temp = Math.round((a * p) / 100);
+    let ans = a - temp;
+    return ans;
 }
