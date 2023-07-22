@@ -13,7 +13,7 @@ app.get('/', (req, res) => {
 });
 
 app.get('/data', (req, res) => {
-    res.sendFile(__dirname + '/static/json/covid19_data.json');
+    res.sendFile(__dirname + '/static/json/newCovid.json');
 });
 
 app.listen(port, () => {

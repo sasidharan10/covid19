@@ -1,0 +1,2325 @@
+[
+    {
+        "Active Cases_text": "+31,993",
+        "Country_text": "World",
+        "Last Update": "2023-07-22 04:57",
+        "New Cases_text": "0",
+        "New Deaths_text": "0",
+        "Total Cases_text": "691,793,096",
+        "Total Deaths_text": "6,901,825",
+        "Total Recovered_text": "664,229,849"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "USA",
+        "Last Update": "2023-07-22 04:57",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "107,435,531",
+        "Total Deaths_text": "1,169,144",
+        "Total Recovered_text": "105,595,406"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "India",
+        "Last Update": "2023-07-22 04:57",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "44,995,055",
+        "Total Deaths_text": "531,915",
+        "Total Recovered_text": "44,461,664"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "France",
+        "Last Update": "2023-07-22 04:57",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "40,138,560",
+        "Total Deaths_text": "167,642",
+        "Total Recovered_text": "39,970,918"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Germany",
+        "Last Update": "2023-07-22 04:57",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "38,428,685",
+        "Total Deaths_text": "174,352",
+        "Total Recovered_text": "38,240,600"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Brazil",
+        "Last Update": "2023-07-21 23:56",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "37,704,598",
+        "Total Deaths_text": "704,488",
+        "Total Recovered_text": "36,249,161"
+    },
+    {
+        "Active Cases_text": "N/A",
+        "Country_text": "Japan",
+        "Last Update": "2023-07-21 23:56",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "33,803,572",
+        "Total Deaths_text": "74,694",
+        "Total Recovered_text": "N/A"
+    },
+    {
+        "Active Cases_text": "+25,626",
+        "Country_text": "S. Korea",
+        "Last Update": "2023-07-20 08:41",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "32,611,509",
+        "Total Deaths_text": "35,159",
+        "Total Recovered_text": "32,246,621"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Italy",
+        "Last Update": "2023-07-21 23:56",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "25,908,353",
+        "Total Deaths_text": "190,987",
+        "Total Recovered_text": "25,605,377"
+    },
+    {
+        "Active Cases_text": "+281",
+        "Country_text": "UK",
+        "Last Update": "2023-07-21 23:56",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "24,641,596",
+        "Total Deaths_text": "228,144",
+        "Total Recovered_text": "24,410,310"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Russia",
+        "Last Update": "2023-07-21 23:56",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "22,971,107",
+        "Total Deaths_text": "399,772",
+        "Total Recovered_text": "22,419,628"
+    },
+    {
+        "Active Cases_text": "N/A",
+        "Country_text": "Turkey",
+        "Last Update": "2023-07-22 04:57",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "17,232,066",
+        "Total Deaths_text": "102,174",
+        "Total Recovered_text": "N/A"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Spain",
+        "Last Update": "2023-07-22 03:57",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "13,914,811",
+        "Total Deaths_text": "121,760",
+        "Total Recovered_text": "13,762,417"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Australia",
+        "Last Update": "2023-07-21 23:56",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "11,718,384",
+        "Total Deaths_text": "22,060",
+        "Total Recovered_text": "11,683,804"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Vietnam",
+        "Last Update": "2023-07-21 23:56",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "11,621,558",
+        "Total Deaths_text": "43,206",
+        "Total Recovered_text": "10,640,289"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Taiwan",
+        "Last Update": "2023-07-21 23:56",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "10,239,998",
+        "Total Deaths_text": "19,005",
+        "Total Recovered_text": "10,220,993"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Argentina",
+        "Last Update": "2023-07-22 04:57",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "10,057,945",
+        "Total Deaths_text": "130,527",
+        "Total Recovered_text": "9,926,677"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Netherlands",
+        "Last Update": "2023-07-21 23:56",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "8,610,372",
+        "Total Deaths_text": "22,992",
+        "Total Recovered_text": "8,587,380"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Mexico",
+        "Last Update": "2023-07-22 02:57",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "7,633,355",
+        "Total Deaths_text": "334,336",
+        "Total Recovered_text": "6,885,378"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Iran",
+        "Last Update": "2023-07-21 23:56",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "7,612,734",
+        "Total Deaths_text": "146,304",
+        "Total Recovered_text": "7,371,038"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Indonesia",
+        "Last Update": "2023-07-22 03:57",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "6,812,127",
+        "Total Deaths_text": "161,879",
+        "Total Recovered_text": "6,642,003"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Poland",
+        "Last Update": "2023-07-22 00:56",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "6,518,070",
+        "Total Deaths_text": "119,632",
+        "Total Recovered_text": "5,335,940"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Colombia",
+        "Last Update": "2023-07-21 23:56",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "6,375,407",
+        "Total Deaths_text": "142,892",
+        "Total Recovered_text": "6,190,683"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Greece",
+        "Last Update": "2023-07-22 04:57",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "6,101,379",
+        "Total Deaths_text": "37,089",
+        "Total Recovered_text": "6,064,290"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Austria",
+        "Last Update": "2023-07-22 00:56",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "6,081,287",
+        "Total Deaths_text": "22,542",
+        "Total Recovered_text": "6,054,934"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Portugal",
+        "Last Update": "2023-07-22 04:57",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "5,595,211",
+        "Total Deaths_text": "26,957",
+        "Total Recovered_text": "5,565,453"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Ukraine",
+        "Last Update": "2023-07-21 23:56",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "5,557,995",
+        "Total Deaths_text": "112,418",
+        "Total Recovered_text": "5,445,577"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Chile",
+        "Last Update": "2023-07-21 23:56",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "5,288,757",
+        "Total Deaths_text": "64,497",
+        "Total Recovered_text": "5,224,186"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Malaysia",
+        "Last Update": "2023-07-22 04:57",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "5,118,689",
+        "Total Deaths_text": "37,160",
+        "Total Recovered_text": "5,067,662"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Israel",
+        "Last Update": "2023-07-21 23:56",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "4,830,203",
+        "Total Deaths_text": "12,581",
+        "Total Recovered_text": "4,798,473"
+    },
+    {
+        "Active Cases_text": "+764",
+        "Country_text": "Belgium",
+        "Last Update": "2023-07-21 23:56",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "4,802,089",
+        "Total Deaths_text": "34,376",
+        "Total Recovered_text": "4,767,147"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "DPRK",
+        "Last Update": "2023-06-27 04:15",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "4,772,813",
+        "Total Deaths_text": "74",
+        "Total Recovered_text": "4,772,739"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Thailand",
+        "Last Update": "2023-07-21 23:56",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "4,754,228",
+        "Total Deaths_text": "34,410",
+        "Total Recovered_text": "4,692,636"
+    },
+    {
+        "Active Cases_text": "+281",
+        "Country_text": "Canada",
+        "Last Update": "2023-07-22 03:57",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "4,693,798",
+        "Total Deaths_text": "53,063",
+        "Total Recovered_text": "4,634,926"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Czechia",
+        "Last Update": "2023-07-21 23:56",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "4,642,937",
+        "Total Deaths_text": "42,812",
+        "Total Recovered_text": "4,599,957"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Peru",
+        "Last Update": "2023-07-21 23:56",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "4,515,610",
+        "Total Deaths_text": "221,261",
+        "Total Recovered_text": "4,293,421"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Switzerland",
+        "Last Update": "2023-07-22 02:57",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "4,407,385",
+        "Total Deaths_text": "14,452",
+        "Total Recovered_text": "4,392,357"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Philippines",
+        "Last Update": "2023-07-22 03:57",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "4,171,063",
+        "Total Deaths_text": "66,542",
+        "Total Recovered_text": "4,099,243"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "South Africa",
+        "Last Update": "2023-07-20 20:46",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "4,076,463",
+        "Total Deaths_text": "102,595",
+        "Total Recovered_text": "3,912,506"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Romania",
+        "Last Update": "2023-07-21 23:56",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "3,408,885",
+        "Total Deaths_text": "68,246",
+        "Total Recovered_text": "3,339,749"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Denmark",
+        "Last Update": "2023-07-21 23:56",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "3,182,400",
+        "Total Deaths_text": "8,764",
+        "Total Recovered_text": "3,173,535"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Hong Kong",
+        "Last Update": "2023-07-22 00:56",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "2,915,068",
+        "Total Deaths_text": "13,819",
+        "Total Recovered_text": "2,895,664"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Sweden",
+        "Last Update": "2023-07-22 03:57",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "2,712,743",
+        "Total Deaths_text": "24,536",
+        "Total Recovered_text": "2,687,568"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Serbia",
+        "Last Update": "2023-07-21 23:56",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "2,544,538",
+        "Total Deaths_text": "18,057",
+        "Total Recovered_text": "2,525,944"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Singapore",
+        "Last Update": "2023-07-21 23:56",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "2,518,281",
+        "Total Deaths_text": "1,841",
+        "Total Recovered_text": "2,149,583"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Iraq",
+        "Last Update": "2023-07-22 04:57",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "2,465,545",
+        "Total Deaths_text": "25,375",
+        "Total Recovered_text": "2,439,497"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "New Zealand",
+        "Last Update": "2023-07-22 03:57",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "2,429,544",
+        "Total Deaths_text": "4,586",
+        "Total Recovered_text": "2,422,069"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Hungary",
+        "Last Update": "2023-07-22 00:56",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "2,203,222",
+        "Total Deaths_text": "48,881",
+        "Total Recovered_text": "2,152,155"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Bangladesh",
+        "Last Update": "2023-07-22 03:57",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "2,043,730",
+        "Total Deaths_text": "29,465",
+        "Total Recovered_text": "1,998,448"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Slovakia",
+        "Last Update": "2023-07-22 03:57",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "1,866,857",
+        "Total Deaths_text": "21,167",
+        "Total Recovered_text": "1,845,690"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Georgia",
+        "Last Update": "2023-07-21 23:56",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "1,845,538",
+        "Total Deaths_text": "17,101",
+        "Total Recovered_text": "1,776,548"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Jordan",
+        "Last Update": "2023-07-21 23:56",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "1,746,997",
+        "Total Deaths_text": "14,122",
+        "Total Recovered_text": "1,731,007"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Ireland",
+        "Last Update": "2023-07-22 02:57",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "1,714,111",
+        "Total Deaths_text": "9,085",
+        "Total Recovered_text": "1,704,528"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Pakistan",
+        "Last Update": "2023-07-21 23:56",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "1,581,304",
+        "Total Deaths_text": "30,661",
+        "Total Recovered_text": "1,538,689"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Norway",
+        "Last Update": "2023-07-21 23:56",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "1,486,048",
+        "Total Deaths_text": "5,600",
+        "Total Recovered_text": "1,480,283"
+    },
+    {
+        "Active Cases_text": "+4",
+        "Country_text": "Finland",
+        "Last Update": "2023-07-21 23:56",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "1,483,034",
+        "Total Deaths_text": "10,068",
+        "Total Recovered_text": "1,472,332"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Kazakhstan",
+        "Last Update": "2023-07-21 23:56",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "1,411,831",
+        "Total Deaths_text": "13,848",
+        "Total Recovered_text": "1,383,020"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Slovenia",
+        "Last Update": "2023-07-22 01:56",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "1,344,289",
+        "Total Deaths_text": "7,100",
+        "Total Recovered_text": "1,337,079"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Lithuania",
+        "Last Update": "2023-07-22 01:56",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "1,321,722",
+        "Total Deaths_text": "9,693",
+        "Total Recovered_text": "1,311,752"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Bulgaria",
+        "Last Update": "2023-07-21 23:56",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "1,309,515",
+        "Total Deaths_text": "38,440",
+        "Total Recovered_text": "1,269,681"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Morocco",
+        "Last Update": "2023-07-21 23:56",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "1,275,224",
+        "Total Deaths_text": "16,297",
+        "Total Recovered_text": "1,256,151"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Croatia",
+        "Last Update": "2023-07-22 00:56",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "1,274,068",
+        "Total Deaths_text": "18,281",
+        "Total Recovered_text": "1,255,638"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Guatemala",
+        "Last Update": "2023-07-21 23:56",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "1,268,631",
+        "Total Deaths_text": "20,223",
+        "Total Recovered_text": "1,242,551"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Lebanon",
+        "Last Update": "2023-07-21 23:56",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "1,238,552",
+        "Total Deaths_text": "10,936",
+        "Total Recovered_text": "1,087,587"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Costa Rica",
+        "Last Update": "2023-06-27 18:21",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "1,238,243",
+        "Total Deaths_text": "9,411",
+        "Total Recovered_text": "860,711"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Bolivia",
+        "Last Update": "2023-07-21 23:56",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "1,205,809",
+        "Total Deaths_text": "22,399",
+        "Total Recovered_text": "1,173,582"
+    },
+    {
+        "Active Cases_text": "N/A",
+        "Country_text": "Tunisia",
+        "Last Update": "2023-07-21 23:56",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "1,153,361",
+        "Total Deaths_text": "29,423",
+        "Total Recovered_text": "N/A"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Cuba",
+        "Last Update": "2023-07-21 23:56",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "1,115,023",
+        "Total Deaths_text": "8,530",
+        "Total Recovered_text": "1,106,407"
+    },
+    {
+        "Active Cases_text": "+5,037",
+        "Country_text": "Ecuador",
+        "Last Update": "2023-07-21 23:56",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "1,067,327",
+        "Total Deaths_text": "36,034",
+        "Total Recovered_text": "1,031,293"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "UAE",
+        "Last Update": "2023-07-22 00:56",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "1,067,030",
+        "Total Deaths_text": "2,349",
+        "Total Recovered_text": "1,054,525"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Panama",
+        "Last Update": "2023-07-21 23:56",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "1,047,000",
+        "Total Deaths_text": "8,650",
+        "Total Recovered_text": "1,037,928"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Uruguay",
+        "Last Update": "2023-07-21 23:56",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "1,038,774",
+        "Total Deaths_text": "7,634",
+        "Total Recovered_text": "1,030,944"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Mongolia",
+        "Last Update": "2023-07-21 23:56",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "1,010,944",
+        "Total Deaths_text": "2,179",
+        "Total Recovered_text": "1,007,855"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Nepal",
+        "Last Update": "2023-07-21 23:56",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "1,003,374",
+        "Total Deaths_text": "12,031",
+        "Total Recovered_text": "991,322"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Belarus",
+        "Last Update": "2023-07-22 01:56",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "994,037",
+        "Total Deaths_text": "7,118",
+        "Total Recovered_text": "985,592"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Latvia",
+        "Last Update": "2023-07-22 03:57",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "978,227",
+        "Total Deaths_text": "6,388",
+        "Total Recovered_text": "971,406"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Saudi Arabia",
+        "Last Update": "2023-07-22 04:57",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "841,469",
+        "Total Deaths_text": "9,646",
+        "Total Recovered_text": "827,923"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Azerbaijan",
+        "Last Update": "2023-07-21 23:56",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "831,983",
+        "Total Deaths_text": "10,288",
+        "Total Recovered_text": "821,673"
+    },
+    {
+        "Active Cases_text": "N/A",
+        "Country_text": "Paraguay",
+        "Last Update": "2023-07-22 03:57",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "812,667",
+        "Total Deaths_text": "19,979",
+        "Total Recovered_text": "N/A"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Bahrain",
+        "Last Update": "2023-07-21 23:56",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "723,019",
+        "Total Deaths_text": "1,566",
+        "Total Recovered_text": "721,298"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Sri Lanka",
+        "Last Update": "2023-07-22 03:57",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "672,563",
+        "Total Deaths_text": "16,880",
+        "Total Recovered_text": "655,675"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Kuwait",
+        "Last Update": "2023-07-22 04:57",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "666,005",
+        "Total Deaths_text": "2,570",
+        "Total Recovered_text": "660,237"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Dominican Republic",
+        "Last Update": "2023-07-15 01:57",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "664,120",
+        "Total Deaths_text": "4,384",
+        "Total Recovered_text": "644,785"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Cyprus",
+        "Last Update": "2023-07-21 23:56",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "660,854",
+        "Total Deaths_text": "1,364",
+        "Total Recovered_text": "659,490"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Myanmar",
+        "Last Update": "2023-07-21 23:56",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "640,946",
+        "Total Deaths_text": "19,494",
+        "Total Recovered_text": "619,733"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Palestine",
+        "Last Update": "2023-07-22 00:56",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "621,008",
+        "Total Deaths_text": "5,404",
+        "Total Recovered_text": "615,445"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Moldova",
+        "Last Update": "2023-07-22 02:57",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "620,775",
+        "Total Deaths_text": "12,125",
+        "Total Recovered_text": "504,142"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Estonia",
+        "Last Update": "2023-07-21 23:56",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "619,372",
+        "Total Deaths_text": "3,001",
+        "Total Recovered_text": "524,990"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Venezuela",
+        "Last Update": "2023-07-21 23:56",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "552,695",
+        "Total Deaths_text": "5,856",
+        "Total Recovered_text": "546,537"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Egypt",
+        "Last Update": "2023-07-22 04:57",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "516,023",
+        "Total Deaths_text": "24,613",
+        "Total Recovered_text": "442,182"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Qatar",
+        "Last Update": "2023-07-21 23:56",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "514,524",
+        "Total Deaths_text": "690",
+        "Total Recovered_text": "513,687"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Libya",
+        "Last Update": "2023-07-21 23:56",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "507,266",
+        "Total Deaths_text": "6,437",
+        "Total Recovered_text": "500,829"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "China",
+        "Last Update": "2023-07-22 02:57",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "503,302",
+        "Total Deaths_text": "5,272",
+        "Total Recovered_text": "379,053"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Ethiopia",
+        "Last Update": "2023-07-21 23:56",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "500,946",
+        "Total Deaths_text": "7,574",
+        "Total Recovered_text": "488,159"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Réunion",
+        "Last Update": "2023-07-10 05:15",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "486,588",
+        "Total Deaths_text": "921",
+        "Total Recovered_text": "418,572"
+    },
+    {
+        "Active Cases_text": "N/A",
+        "Country_text": "Honduras",
+        "Last Update": "2023-07-21 23:56",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "472,619",
+        "Total Deaths_text": "11,116",
+        "Total Recovered_text": "N/A"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Armenia",
+        "Last Update": "2023-07-21 23:56",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "449,263",
+        "Total Deaths_text": "8,751",
+        "Total Recovered_text": "435,162"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Bosnia and Herzegovina",
+        "Last Update": "2023-06-27 04:15",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "403,052",
+        "Total Deaths_text": "16,352",
+        "Total Recovered_text": "379,084"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Oman",
+        "Last Update": "2023-07-21 23:56",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "399,449",
+        "Total Deaths_text": "4,628",
+        "Total Recovered_text": "384,669"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "North Macedonia",
+        "Last Update": "2023-07-15 09:00",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "348,335",
+        "Total Deaths_text": "9,677",
+        "Total Recovered_text": "337,068"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Zambia",
+        "Last Update": "2023-07-21 23:56",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "347,022",
+        "Total Deaths_text": "4,062",
+        "Total Recovered_text": "341,316"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Kenya",
+        "Last Update": "2023-07-21 23:56",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "343,898",
+        "Total Deaths_text": "5,689",
+        "Total Recovered_text": "337,309"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Albania",
+        "Last Update": "2023-07-22 02:57",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "334,726",
+        "Total Deaths_text": "3,602",
+        "Total Recovered_text": "329,428"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Botswana",
+        "Last Update": "2023-07-21 23:56",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "330,077",
+        "Total Deaths_text": "2,801",
+        "Total Recovered_text": "327,049"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Luxembourg",
+        "Last Update": "2023-07-21 23:56",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "319,959",
+        "Total Deaths_text": "1,232",
+        "Total Recovered_text": "316,690"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Brunei",
+        "Last Update": "2023-07-21 23:56",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "309,561",
+        "Total Deaths_text": "225",
+        "Total Recovered_text": "243,601"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Montenegro",
+        "Last Update": "2023-07-22 02:57",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "291,952",
+        "Total Deaths_text": "2,828",
+        "Total Recovered_text": "288,658"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Algeria",
+        "Last Update": "2023-07-21 23:56",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "271,852",
+        "Total Deaths_text": "6,881",
+        "Total Recovered_text": "183,061"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Nigeria",
+        "Last Update": "2023-07-22 04:57",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "266,675",
+        "Total Deaths_text": "3,155",
+        "Total Recovered_text": "259,953"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Zimbabwe",
+        "Last Update": "2023-07-21 23:56",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "265,666",
+        "Total Deaths_text": "5,711",
+        "Total Recovered_text": "258,888"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Uzbekistan",
+        "Last Update": "2023-07-22 02:57",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "253,662",
+        "Total Deaths_text": "1,637",
+        "Total Recovered_text": "241,486"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Mozambique",
+        "Last Update": "2023-07-21 23:56",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "233,417",
+        "Total Deaths_text": "2,243",
+        "Total Recovered_text": "228,805"
+    },
+    {
+        "Active Cases_text": "N/A",
+        "Country_text": "Martinique",
+        "Last Update": "2023-07-21 23:56",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "230,354",
+        "Total Deaths_text": "1,102",
+        "Total Recovered_text": "N/A"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Afghanistan",
+        "Last Update": "2023-07-21 23:56",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "223,977",
+        "Total Deaths_text": "7,933",
+        "Total Recovered_text": "203,781"
+    },
+    {
+        "Active Cases_text": "N/A",
+        "Country_text": "Laos",
+        "Last Update": "2023-07-21 23:56",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "218,695",
+        "Total Deaths_text": "758",
+        "Total Recovered_text": "N/A"
+    },
+    {
+        "Active Cases_text": "N/A",
+        "Country_text": "Iceland",
+        "Last Update": "2023-07-22 02:57",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "209,191",
+        "Total Deaths_text": "229",
+        "Total Recovered_text": "N/A"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Kyrgyzstan",
+        "Last Update": "2023-07-22 02:57",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "206,897",
+        "Total Deaths_text": "2,991",
+        "Total Recovered_text": "196,406"
+    },
+    {
+        "Active Cases_text": "N/A",
+        "Country_text": "Guadeloupe",
+        "Last Update": "2023-07-21 23:56",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "203,235",
+        "Total Deaths_text": "1,021",
+        "Total Recovered_text": "N/A"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "El Salvador",
+        "Last Update": "2023-06-27 04:15",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "201,785",
+        "Total Deaths_text": "4,230",
+        "Total Recovered_text": "179,410"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Trinidad and Tobago",
+        "Last Update": "2023-07-20 18:46",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "191,496",
+        "Total Deaths_text": "4,390",
+        "Total Recovered_text": "187,078"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Maldives",
+        "Last Update": "2023-07-21 23:56",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "186,687",
+        "Total Deaths_text": "316",
+        "Total Recovered_text": "163,687"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Namibia",
+        "Last Update": "2023-07-21 23:56",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "171,998",
+        "Total Deaths_text": "4,098",
+        "Total Recovered_text": "167,099"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Ghana",
+        "Last Update": "2023-07-21 23:56",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "171,740",
+        "Total Deaths_text": "1,462",
+        "Total Recovered_text": "170,255"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Uganda",
+        "Last Update": "2023-07-21 23:56",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "171,729",
+        "Total Deaths_text": "3,632",
+        "Total Recovered_text": "100,431"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Jamaica",
+        "Last Update": "2023-07-21 23:56",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "155,455",
+        "Total Deaths_text": "3,586",
+        "Total Recovered_text": "103,032"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Cambodia",
+        "Last Update": "2023-07-21 23:56",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "138,937",
+        "Total Deaths_text": "3,056",
+        "Total Recovered_text": "135,877"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Rwanda",
+        "Last Update": "2023-07-22 01:56",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "133,194",
+        "Total Deaths_text": "1,468",
+        "Total Recovered_text": "131,647"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Cameroon",
+        "Last Update": "2023-07-21 23:56",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "125,090",
+        "Total Deaths_text": "1,974",
+        "Total Recovered_text": "122,807"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Malta",
+        "Last Update": "2023-07-21 23:56",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "119,225",
+        "Total Deaths_text": "848",
+        "Total Recovered_text": "117,796"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Barbados",
+        "Last Update": "2023-07-21 23:56",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "109,276",
+        "Total Deaths_text": "612",
+        "Total Recovered_text": "108,282"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Angola",
+        "Last Update": "2023-07-21 23:56",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "105,384",
+        "Total Deaths_text": "1,934",
+        "Total Recovered_text": "103,419"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Channel Islands",
+        "Last Update": "2023-06-27 04:15",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "101,717",
+        "Total Deaths_text": "228",
+        "Total Recovered_text": "101,321"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "French Guiana",
+        "Last Update": "2023-06-27 04:15",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "98,041",
+        "Total Deaths_text": "420",
+        "Total Recovered_text": "11,254"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "DRC",
+        "Last Update": "2023-07-21 23:56",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "97,697",
+        "Total Deaths_text": "1,468",
+        "Total Recovered_text": "84,489"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Senegal",
+        "Last Update": "2023-07-21 23:56",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "89,008",
+        "Total Deaths_text": "1,971",
+        "Total Recovered_text": "87,024"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Malawi",
+        "Last Update": "2023-07-21 23:56",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "88,791",
+        "Total Deaths_text": "2,686",
+        "Total Recovered_text": "85,651"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Ivory Coast",
+        "Last Update": "2023-06-27 04:15",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "88,338",
+        "Total Deaths_text": "835",
+        "Total Recovered_text": "87,497"
+    },
+    {
+        "Active Cases_text": "N/A",
+        "Country_text": "Suriname",
+        "Last Update": "2023-07-21 23:56",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "82,588",
+        "Total Deaths_text": "1,408",
+        "Total Recovered_text": "N/A"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "New Caledonia",
+        "Last Update": "2023-06-27 04:15",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "79,922",
+        "Total Deaths_text": "314",
+        "Total Recovered_text": "79,605"
+    },
+    {
+        "Active Cases_text": "N/A",
+        "Country_text": "French Polynesia",
+        "Last Update": "2023-06-27 04:15",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "78,615",
+        "Total Deaths_text": "649",
+        "Total Recovered_text": "N/A"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Eswatini",
+        "Last Update": "2023-07-21 23:56",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "74,882",
+        "Total Deaths_text": "1,427",
+        "Total Recovered_text": "73,116"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Guyana",
+        "Last Update": "2023-07-21 23:56",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "73,385",
+        "Total Deaths_text": "1,299",
+        "Total Recovered_text": "72,013"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Belize",
+        "Last Update": "2023-07-21 23:56",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "70,782",
+        "Total Deaths_text": "688",
+        "Total Recovered_text": "70,085"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Fiji",
+        "Last Update": "2023-07-21 23:56",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "69,117",
+        "Total Deaths_text": "885",
+        "Total Recovered_text": "67,226"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Madagascar",
+        "Last Update": "2023-07-21 23:56",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "68,289",
+        "Total Deaths_text": "1,425",
+        "Total Recovered_text": "66,862"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Cabo Verde",
+        "Last Update": "2023-06-28 09:26",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "64,172",
+        "Total Deaths_text": "414",
+        "Total Recovered_text": "63,680"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Sudan",
+        "Last Update": "2023-07-21 23:56",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "63,993",
+        "Total Deaths_text": "5,046",
+        "Total Recovered_text": "58,807"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Mauritania",
+        "Last Update": "2023-07-21 23:56",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "63,715",
+        "Total Deaths_text": "997",
+        "Total Recovered_text": "62,471"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Bhutan",
+        "Last Update": "2023-07-22 04:57",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "62,690",
+        "Total Deaths_text": "21",
+        "Total Recovered_text": "61,564"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Syria",
+        "Last Update": "2023-07-22 04:57",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "57,689",
+        "Total Deaths_text": "3,165",
+        "Total Recovered_text": "54,524"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Burundi",
+        "Last Update": "2023-07-21 23:56",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "54,229",
+        "Total Deaths_text": "38",
+        "Total Recovered_text": "53,569"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Seychelles",
+        "Last Update": "2023-07-21 23:56",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "50,937",
+        "Total Deaths_text": "172",
+        "Total Recovered_text": "50,750"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Gabon",
+        "Last Update": "2023-07-21 23:56",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "48,992",
+        "Total Deaths_text": "307",
+        "Total Recovered_text": "48,674"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Andorra",
+        "Last Update": "2023-07-21 23:56",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "48,015",
+        "Total Deaths_text": "165",
+        "Total Recovered_text": "47,563"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Papua New Guinea",
+        "Last Update": "2023-07-20 12:43",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "46,864",
+        "Total Deaths_text": "670",
+        "Total Recovered_text": "43,982"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Curaçao",
+        "Last Update": "2023-06-27 04:15",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "45,986",
+        "Total Deaths_text": "295",
+        "Total Recovered_text": "44,720"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Aruba",
+        "Last Update": "2023-07-21 23:56",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "44,224",
+        "Total Deaths_text": "292",
+        "Total Recovered_text": "42,438"
+    },
+    {
+        "Active Cases_text": "N/A",
+        "Country_text": "Tanzania",
+        "Last Update": "2023-07-21 23:56",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "43,078",
+        "Total Deaths_text": "846",
+        "Total Recovered_text": "N/A"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Mauritius",
+        "Last Update": "2023-07-21 23:56",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "42,762",
+        "Total Deaths_text": "1,051",
+        "Total Recovered_text": "41,034"
+    },
+    {
+        "Active Cases_text": "N/A",
+        "Country_text": "Mayotte",
+        "Last Update": "2023-07-21 23:56",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "42,027",
+        "Total Deaths_text": "188",
+        "Total Recovered_text": "N/A"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Togo",
+        "Last Update": "2023-07-21 23:56",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "39,510",
+        "Total Deaths_text": "290",
+        "Total Recovered_text": "39,216"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Guinea",
+        "Last Update": "2023-07-22 03:57",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "38,563",
+        "Total Deaths_text": "468",
+        "Total Recovered_text": "37,757"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Bahamas",
+        "Last Update": "2023-07-21 23:56",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "38,084",
+        "Total Deaths_text": "844",
+        "Total Recovered_text": "36,366"
+    },
+    {
+        "Active Cases_text": "N/A",
+        "Country_text": "Isle of Man",
+        "Last Update": "2023-07-14 12:53",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "38,008",
+        "Total Deaths_text": "116",
+        "Total Recovered_text": "N/A"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Lesotho",
+        "Last Update": "2023-07-21 23:56",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "34,790",
+        "Total Deaths_text": "723",
+        "Total Recovered_text": "25,980"
+    },
+    {
+        "Active Cases_text": "N/A",
+        "Country_text": "Faeroe Islands",
+        "Last Update": "2023-07-18 05:22",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "34,658",
+        "Total Deaths_text": "28",
+        "Total Recovered_text": "N/A"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Haiti",
+        "Last Update": "2023-07-21 23:56",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "34,306",
+        "Total Deaths_text": "860",
+        "Total Recovered_text": "33,372"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Mali",
+        "Last Update": "2023-07-21 23:56",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "33,151",
+        "Total Deaths_text": "743",
+        "Total Recovered_text": "32,332"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Cayman Islands",
+        "Last Update": "2023-06-27 04:15",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "31,472",
+        "Total Deaths_text": "37",
+        "Total Recovered_text": "8,553"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Saint Lucia",
+        "Last Update": "2023-06-27 04:15",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "30,052",
+        "Total Deaths_text": "409",
+        "Total Recovered_text": "29,095"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Benin",
+        "Last Update": "2023-07-21 23:56",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "28,014",
+        "Total Deaths_text": "163",
+        "Total Recovered_text": "27,847"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Somalia",
+        "Last Update": "2023-07-21 23:56",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "27,334",
+        "Total Deaths_text": "1,361",
+        "Total Recovered_text": "13,182"
+    },
+    {
+        "Active Cases_text": "N/A",
+        "Country_text": "Micronesia",
+        "Last Update": "2023-06-27 04:15",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "26,462",
+        "Total Deaths_text": "65",
+        "Total Recovered_text": "N/A"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Congo",
+        "Last Update": "2023-07-21 23:56",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "25,375",
+        "Total Deaths_text": "386",
+        "Total Recovered_text": "24,006"
+    },
+    {
+        "Active Cases_text": "N/A",
+        "Country_text": "Solomon Islands",
+        "Last Update": "2023-07-20 16:44",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "24,575",
+        "Total Deaths_text": "153",
+        "Total Recovered_text": "N/A"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "San Marino",
+        "Last Update": "2023-07-20 16:44",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "24,349",
+        "Total Deaths_text": "125",
+        "Total Recovered_text": "24,219"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Timor-Leste",
+        "Last Update": "2023-07-21 23:56",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "23,460",
+        "Total Deaths_text": "138",
+        "Total Recovered_text": "23,102"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Burkina Faso",
+        "Last Update": "2023-06-27 04:15",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "22,056",
+        "Total Deaths_text": "396",
+        "Total Recovered_text": "21,596"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Liechtenstein",
+        "Last Update": "2023-07-21 23:56",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "21,473",
+        "Total Deaths_text": "94",
+        "Total Recovered_text": "21,352"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Gibraltar",
+        "Last Update": "2023-07-21 23:56",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "20,550",
+        "Total Deaths_text": "113",
+        "Total Recovered_text": "16,579"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Grenada",
+        "Last Update": "2023-07-21 23:56",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "19,693",
+        "Total Deaths_text": "238",
+        "Total Recovered_text": "19,358"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Bermuda",
+        "Last Update": "2023-07-21 23:56",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "18,860",
+        "Total Deaths_text": "165",
+        "Total Recovered_text": "18,685"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Nicaragua",
+        "Last Update": "2023-07-21 23:56",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "18,491",
+        "Total Deaths_text": "225",
+        "Total Recovered_text": "4,225"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "South Sudan",
+        "Last Update": "2023-06-27 04:15",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "18,368",
+        "Total Deaths_text": "138",
+        "Total Recovered_text": "18,115"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Tajikistan",
+        "Last Update": "2023-07-21 23:56",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "17,786",
+        "Total Deaths_text": "125",
+        "Total Recovered_text": "17,264"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Equatorial Guinea",
+        "Last Update": "2023-06-27 04:15",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "17,229",
+        "Total Deaths_text": "183",
+        "Total Recovered_text": "16,907"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Monaco",
+        "Last Update": "2023-07-21 23:56",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "16,848",
+        "Total Deaths_text": "67",
+        "Total Recovered_text": "15,992"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Tonga",
+        "Last Update": "2023-06-27 04:15",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "16,819",
+        "Total Deaths_text": "13",
+        "Total Recovered_text": "15,638"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Samoa",
+        "Last Update": "2023-06-27 04:15",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "16,775",
+        "Total Deaths_text": "31",
+        "Total Recovered_text": "1,605"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Marshall Islands",
+        "Last Update": "2023-06-27 04:15",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "16,098",
+        "Total Deaths_text": "17",
+        "Total Recovered_text": "16,079"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Dominica",
+        "Last Update": "2023-07-21 23:56",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "15,760",
+        "Total Deaths_text": "74",
+        "Total Recovered_text": "15,673"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Djibouti",
+        "Last Update": "2023-07-21 23:56",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "15,690",
+        "Total Deaths_text": "189",
+        "Total Recovered_text": "15,427"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "CAR",
+        "Last Update": "2023-07-21 23:56",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "15,368",
+        "Total Deaths_text": "113",
+        "Total Recovered_text": "15,200"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Macao",
+        "Last Update": "2023-07-21 23:56",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "12,663",
+        "Total Deaths_text": "123",
+        "Total Recovered_text": "3,487"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Gambia",
+        "Last Update": "2023-07-21 23:56",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "12,626",
+        "Total Deaths_text": "372",
+        "Total Recovered_text": "12,189"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Saint Martin",
+        "Last Update": "2023-07-11 23:30",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "12,324",
+        "Total Deaths_text": "63",
+        "Total Recovered_text": "1,399"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Vanuatu",
+        "Last Update": "2023-07-06 11:39",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "12,019",
+        "Total Deaths_text": "14",
+        "Total Recovered_text": "11,976"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Greenland",
+        "Last Update": "2023-07-21 23:56",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "11,971",
+        "Total Deaths_text": "21",
+        "Total Recovered_text": "2,761"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Yemen",
+        "Last Update": "2023-07-21 23:56",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "11,945",
+        "Total Deaths_text": "2,159",
+        "Total Recovered_text": "9,124"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Caribbean Netherlands",
+        "Last Update": "2023-06-30 11:45",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "11,682",
+        "Total Deaths_text": "38",
+        "Total Recovered_text": "10,476"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Sint Maarten",
+        "Last Update": "2023-06-22 11:33",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "11,051",
+        "Total Deaths_text": "92",
+        "Total Recovered_text": "10,905"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Eritrea",
+        "Last Update": "2023-07-21 23:56",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "10,189",
+        "Total Deaths_text": "103",
+        "Total Recovered_text": "10,086"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Niger",
+        "Last Update": "2023-07-21 23:56",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "9,931",
+        "Total Deaths_text": "312",
+        "Total Recovered_text": "8,890"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "St. Vincent Grenadines",
+        "Last Update": "2023-06-13 11:20",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "9,631",
+        "Total Deaths_text": "124",
+        "Total Recovered_text": "9,493"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Guinea-Bissau",
+        "Last Update": "2023-07-21 23:56",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "9,614",
+        "Total Deaths_text": "177",
+        "Total Recovered_text": "8,929"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Comoros",
+        "Last Update": "2023-07-21 23:56",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "9,109",
+        "Total Deaths_text": "161",
+        "Total Recovered_text": "8,939"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Antigua and Barbuda",
+        "Last Update": "2023-06-08 23:38",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "9,106",
+        "Total Deaths_text": "146",
+        "Total Recovered_text": "8,954"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Liberia",
+        "Last Update": "2023-07-21 23:56",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "8,090",
+        "Total Deaths_text": "295",
+        "Total Recovered_text": "7,783"
+    },
+    {
+        "Active Cases_text": "N/A",
+        "Country_text": "Sierra Leone",
+        "Last Update": "2023-07-20 16:44",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "7,762",
+        "Total Deaths_text": "126",
+        "Total Recovered_text": "N/A"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Chad",
+        "Last Update": "2023-07-21 23:56",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "7,701",
+        "Total Deaths_text": "194",
+        "Total Recovered_text": "4,874"
+    },
+    {
+        "Active Cases_text": "N/A",
+        "Country_text": "British Virgin Islands",
+        "Last Update": "2023-06-02 23:47",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "7,305",
+        "Total Deaths_text": "64",
+        "Total Recovered_text": "N/A"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Cook Islands",
+        "Last Update": "2023-06-01 23:38",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "7,150",
+        "Total Deaths_text": "2",
+        "Total Recovered_text": "7,147"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Turks and Caicos",
+        "Last Update": "2023-05-30 07:08",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "6,617",
+        "Total Deaths_text": "39",
+        "Total Recovered_text": "6,559"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Saint Kitts and Nevis",
+        "Last Update": "2023-05-30 07:08",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "6,607",
+        "Total Deaths_text": "48",
+        "Total Recovered_text": "6,559"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Sao Tome and Principe",
+        "Last Update": "2023-06-01 10:34",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "6,589",
+        "Total Deaths_text": "80",
+        "Total Recovered_text": "6,509"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Palau",
+        "Last Update": "2023-05-30 07:08",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "6,069",
+        "Total Deaths_text": "9",
+        "Total Recovered_text": "6,023"
+    },
+    {
+        "Active Cases_text": "N/A",
+        "Country_text": "St. Barth",
+        "Last Update": "2023-05-30 07:08",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "5,507",
+        "Total Deaths_text": "6",
+        "Total Recovered_text": "N/A"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Nauru",
+        "Last Update": "2023-05-30 07:08",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "5,393",
+        "Total Deaths_text": "1",
+        "Total Recovered_text": "5,347"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Kiribati",
+        "Last Update": "2023-06-25 09:01",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "5,082",
+        "Total Deaths_text": "24",
+        "Total Recovered_text": "2,703"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Anguilla",
+        "Last Update": "2023-07-21 23:56",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "3,904",
+        "Total Deaths_text": "12",
+        "Total Recovered_text": "3,879"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Wallis and Futuna",
+        "Last Update": "2023-05-30 07:08",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "3,550",
+        "Total Deaths_text": "8",
+        "Total Recovered_text": "438"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Saint Pierre Miquelon",
+        "Last Update": "2023-05-30 07:08",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "3,452",
+        "Total Deaths_text": "2",
+        "Total Recovered_text": "2,449"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Tuvalu",
+        "Last Update": "2023-05-30 07:08",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "2,943",
+        "Total Deaths_text": "1",
+        "Total Recovered_text": ""
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Saint Helena",
+        "Last Update": "2023-05-30 07:08",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "2,166",
+        "Total Deaths_text": "",
+        "Total Recovered_text": "2"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Falkland Islands",
+        "Last Update": "2023-05-30 07:08",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "1,930",
+        "Total Deaths_text": "",
+        "Total Recovered_text": "1,930"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Montserrat",
+        "Last Update": "2023-07-21 23:56",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "1,403",
+        "Total Deaths_text": "8",
+        "Total Recovered_text": "1,376"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Niue",
+        "Last Update": "2023-05-30 07:08",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "822",
+        "Total Deaths_text": "",
+        "Total Recovered_text": "821"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Diamond Princess",
+        "Last Update": "2023-05-30 07:08",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "712",
+        "Total Deaths_text": "13",
+        "Total Recovered_text": "699"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Tokelau",
+        "Last Update": "2023-05-30 07:08",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "80",
+        "Total Deaths_text": "",
+        "Total Recovered_text": ""
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Vatican City",
+        "Last Update": "2023-05-30 07:08",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "29",
+        "Total Deaths_text": "",
+        "Total Recovered_text": "29"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "Western Sahara",
+        "Last Update": "2023-05-30 07:08",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "10",
+        "Total Deaths_text": "1",
+        "Total Recovered_text": "9"
+    },
+    {
+        "Active Cases_text": "",
+        "Country_text": "MS Zaandam",
+        "Last Update": "2023-05-30 07:08",
+        "New Cases_text": "",
+        "New Deaths_text": "",
+        "Total Cases_text": "9",
+        "Total Deaths_text": "2",
+        "Total Recovered_text": "7"
+    },
+    {
+        "Last Update": "2023-07-22 04:57"
+    }
+]
