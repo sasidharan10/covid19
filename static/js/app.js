@@ -46,7 +46,7 @@ fetch("/api")
             Response.json());
     })
     .then(res => {
-        console.log("Populating data");
+        // console.log("Populating data");
         populateData(res);
     }).catch(err => {
         console.log(err);
